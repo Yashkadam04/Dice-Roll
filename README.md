@@ -19,3 +19,4 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+2. give me the feedback for this
